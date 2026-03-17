@@ -1,4 +1,4 @@
-# Stealth Assignment — Transactions (Mock API + Retry + Dedup)
+# BHUMIO Assignment — Transactions (Mock API + Retry + Dedup)
 
 A small web app with **a single page** and **a single form** that collects:
 
